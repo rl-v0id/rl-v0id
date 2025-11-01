@@ -1,7 +1,5 @@
 # 🚀 Barath (aka rl-v0id)
 
-> Replace sample placeholders with your own info. All sample data is clearly marked.
-
 <div align="center">
 
 ![Offensive Security](https://img.shields.io/badge/Offensive%20Security-Red%20Team-critical?style=for-the-badge&logo=tryhackme&logoColor=white)
@@ -12,18 +10,16 @@
 
 </div>
 
-> ---
+---
 
 ## 👋 About Me
 
-- Name: SAMPLE NAME (Replace with your full name)
-- Handle: @SAMPLE_HANDLE (Replace with your username)
-- Location: SAMPLE CITY, COUNTRY
-- Email: sample.email@domain.com
-- Website/Blog: https://example.com
-- LinkedIn: https://www.linkedin.com/in/sample-handle/
-- Twitter/X: https://x.com/sample_handle
-- PGP: SAMPLE_FINGERPRINT (Optional)
+- Name: Barath
+- Handle: @rl-v0id
+- Location: India
+- Email: tbarath912356@gmail.com
+- LinkedIn: https://www.linkedin.com/in/barath-t-864b80373?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- X: https://x.com/A2Barath?t=s_7P4yIEXkeE58D0ePFerw&s=09
 
 I'm an offensive security enthusiast focused on web app hacking, Active Directory attacks, cloud security, and exploit development. I break things (legally) to secure them.
 
