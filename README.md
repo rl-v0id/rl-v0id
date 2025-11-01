@@ -1,9 +1,8 @@
 <div align="center">
-
-<table>
+  <table>
   <tr>
     <td width="70%" align="center">
-
+      
 ```
 ██████╗ ██╗      ██╗   ██╗ ██████╗ ██╗██████╗ 
 ██╔══██╗██║      ██║   ██║██╔═████╗██║██╔══██╗
@@ -18,8 +17,7 @@
       <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="200" alt="Hacker GIF"/>
     </td>
   </tr>
-</table>
-
+  </table>
 </div>
 
 <div align="center">
