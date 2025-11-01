@@ -1,10 +1,21 @@
 <div align="center">
 
-# 👾💻 **<span style="color:#00ff41;">Barath | rl-v0id</span>** 🕵️‍♂️✨
+<table>
+<tr>
+<td width="70%" align="center">
+
+# 👾💻 **Barath | rl-v0id** 🕵️‍♂️✨
+
+</td>
+<td width="30%" align="right">
+
+<img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="200" alt="Hacker GIF"/>
+
+</td>
+</tr>
+</table>
 
 *Offensive Security Enthusiast & Red Team Explorer*
-
-<img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="200" alt="Hacker GIF" align="right"/>
 
 </div>
 
