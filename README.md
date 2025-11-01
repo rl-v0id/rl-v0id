@@ -6,6 +6,17 @@
 
 # 👾💻 **Barath | rl-v0id** 🕵️‍♂️✨
 
+```
+██████╗ ██╗      ██╗   ██╗ ██████╗ ██╗██████╗ 
+██╔══██╗██║      ██║   ██║██╔═████╗██║██╔══██╗
+██████╔╝██║█████╗██║   ██║██║██╔██║██║██║  ██║
+██╔══██╗██║╚════╝╚██╗ ██╔╝████╔╝██║██║██║  ██║
+██║  ██║███████╗  ╚████╔╝ ╚██████╔╝██║██████╔╝
+╚═╝  ╚═╝╚══════╝   ╚═══╝   ╚═════╝ ╚═╝╚═════╝ 
+```
+
+*Offensive Security Enthusiast & Red Team Explorer*
+
 </td>
 <td width="30%" align="right">
 
@@ -14,8 +25,6 @@
 </td>
 </tr>
 </table>
-
-*Offensive Security Enthusiast & Red Team Explorer*
 
 </div>
 
@@ -28,9 +37,3 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
 ![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
-
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=rl-v0id&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="GitHub Stats" height="180"/>
-
-</div>
