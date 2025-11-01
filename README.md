@@ -1,7 +1,20 @@
+<div align="center">
+
+```
+╦═╗╦  ╦  ╦  ╦╔═╗╦╔╦╗
+╠╦╝║  ╚╗╔╝  ║║  ║ ║║
+╩╚═╩═╝ ╚╝   ╚╩═╝╩═╩╝
+```
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" />
+
+</div>
+
+---
+
 # Hi there, I'm rl-v0id 👋
 
 ## About Me
-
 🎯 **Beginner** in cybersecurity and penetration testing  
 💻 Starting my journey in offensive security from ground zero  
 🔒 Learning ethical hacking fundamentals and security concepts  
@@ -11,7 +24,6 @@
 ---
 
 ## Current Focus
-
 - Learning Linux fundamentals and command-line operations
 - Understanding basic networking concepts and protocols
 - Practicing web application security basics
@@ -19,52 +31,29 @@
 - Building a foundational understanding of security tools
 
 ### Security Tools
-
 **Currently Learning:**
 - `Nmap` - Basic network scanning
-- `Burp Suite` - Web application testing basics
-- `Metasploit` - Framework fundamentals
-- `Wireshark` - Network traffic analysis basics
-- `John the Ripper` - Password cracking concepts
-
-### Programming Languages
-
-**Learning:**
-- 🐍 Python (for scripting basics)
-- 🐚 Bash (for automation)
-- 🌐 HTML/CSS/JavaScript (web fundamentals)
+- `Burp Suite` - Web application testing
+- `Metasploit` - Exploitation framework basics
+- `Wireshark` - Network traffic analysis
+- `John the Ripper` - Password cracking
 
 ---
 
-## Active Projects
+## Learning Resources
+**Free Platforms I'm Using:**
+- 🎯 **TryHackMe** - Beginner-friendly guided paths
+- 🎯 **HackTheBox** - Starting with easy machines
+- 🎯 **PortSwigger Academy** - Free web security training
+- 🎯 **PicoCTF** - Beginner CTF challenges
+- 🎯 **OverTheWire** - Command-line skill development
 
-| Project | Description | Status |
-|---------|-------------|--------|
-| **Learning Path Documentation** | Documenting my learning journey and resources | Ongoing |
-| **Beginner CTF Writeups** | Writing up solutions to easy-level challenges | Starting |
-| **Study Notes Collection** | Organizing notes from various learning platforms | In Progress |
-
----
-
-## Certifications & Learning
-
-### 🎓 Current Learning Path (All Affordable/Free)
-
-**Active Platforms:**
-- 🟢 **TryHackMe** - Working through the Complete Beginner Learning Path (Free tier)
-- 🟢 **HackTheBox Academy** - Completing free fundamental modules
-- 🟢 **OverTheWire** - Practicing Bandit wargames for Linux basics
-- 🟢 **PicoCTF** - Learning through beginner-friendly CTF challenges
-
-**Planned Free Certifications:**
-- **TryHackMe Jr Penetration Tester Path** (Free with student discount or completion)
-- **HackTheBox CPTS** (Saving up - more affordable than OSCP)
-- **Google Cybersecurity Professional Certificate** (Coursera - Financial aid available)
-
-**Regular Participation:**
-- 🚩 **Free CTF Competitions** - Learning from the community
-- 📖 **OWASP Top 10** - Studying common vulnerabilities
-- 🎯 **HackerOne/Bugcrowd Disclosed Reports** - Reading real-world findings
+**Learning Path:**
+1. **Linux Basics** - Understanding the operating system
+2. **Networking Fundamentals** - How systems communicate
+3. **Web Security** - Common vulnerabilities (OWASP Top 10)
+4. **Basic Scripting** - Python and Bash automation
+5. **CTF Practice** - Applying knowledge in challenges
 
 **Note:** As a beginner, I'm focusing on free and affordable resources to build strong fundamentals before pursuing advanced certifications like OSCP in the future.
 
@@ -115,8 +104,6 @@ If you find my learning journey relatable or helpful, consider:
 <div align="center">
 
 *"Every expert was once a beginner. Stay curious, stay persistent."*
-
-<br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rl-v0id&color=red&style=flat-square)
 
