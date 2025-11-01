@@ -28,13 +28,7 @@
 
 ---
 
-<div align="center">
-
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-%2300C853.svg?&style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YOUR_USERNAME)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-%239FEF00.svg?&style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/YOUR_USERNAME)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/YOUR_USERNAME)
-
-</div>
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-%2300C853.svg?&style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/R1L34D3R)
 
 ---
 
@@ -43,18 +37,20 @@
 <div align="center">
 
 ### Programming Languages
+
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Security Tools
+
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-%23FF6633.svg?&style=for-the-badge&logo=burp-suite&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-%232596CD.svg?&style=for-the-badge&logo=metasploit&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-%231679A7.svg?&style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-%23000000.svg?&style=for-the-badge&logo=nmap&logoColor=white)
 
 ### Operating Systems
+
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-%23557C94.svg?&style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white)
