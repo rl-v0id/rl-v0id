@@ -1,4 +1,5 @@
 <div align="center">
+
 <table>
 <tr>
 <td width="70%" align="center">
@@ -14,14 +15,19 @@
 
 </td>
 <td width="30%" align="right">
+
 <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="200" alt="Hacker GIF"/>
+
 </td>
 </tr>
 </table>
+
 </div>
 
 <div align="center">
+
 <i>Offensive Security Enthusiast & Red Team Explorer</i>
+
 </div>
 
 ---
@@ -40,6 +46,15 @@ Professional offensive security practitioner and red team explorer dedicated to 
 
 ---
 
+## 📁 Projects & Writeups
+
+| Project/Writeup | Description | Link |
+|----------------|-------------|------|
+| **CVE-Scanner** | Automated scanner for known vulnerabilities | [Coming Soon] |
+| **TryHackMe Writeups** | Notes and solutions from completed rooms | [Coming Soon] |
+
+---
+
 <div align="center">
 
 ### 🏆 Badges & Certifications
@@ -55,6 +70,7 @@ Professional offensive security practitioner and red team explorer dedicated to 
 <div align="center">
 
 ### 🔐 Security & Penetration Testing
+
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
@@ -62,22 +78,26 @@ Professional offensive security practitioner and red team explorer dedicated to 
 ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
 
 ### 💻 Programming & Scripting
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
 ### 🖥️ Operating Systems
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 ### 🌐 Web Technologies
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### 🔧 Tools & Platforms
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
