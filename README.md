@@ -1,12 +1,43 @@
 # 🚀 Barath (aka rl-v0id)
 
-<div align="center">
+<div align="right">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnV2OWxoZHQ4YnJoNjdmeDJ1dDFkMWZ6aGtpOHMyYnF5YjNxNzNtYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="250" alt="Hacker GIF"/>
+</div>
 
-![Offensive Security](https://img.shields.io/badge/Offensive%20Security-Red%20Team-critical?style=for-the-badge&logo=tryhackme&logoColor=white)
-![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-Web%2FCloud%2FAD-important?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Bug Bounty](https://img.shields.io/badge/Bug%20Bounty-Hunter-orange?style=for-the-badge&logo=bugcrowd&logoColor=white)
-![CTF](https://img.shields.io/badge/CTF-Player-blue?style=for-the-badge&logo=hackthebox&logoColor=white)
-![Blue Team](https://img.shields.io/badge/Blue%20Team-Detection%20Engineering-informational?style=for-the-badge&logo=splunk&logoColor=white)
+---
+
+<div align="center">
+  
+### 🏆 Badges & Certifications
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
+
+### 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=rl-v0id&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rl-v0id&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak" height="180"/>
+</p>
+
+### 👀 Visitor Counter
+
+![Visitor Count](https://profile-counter.glitch.me/rl-v0id/count.svg)
+
+### 📫 Contact Me
+
+<p>
+  <a href="https://www.linkedin.com/in/barath-t-864b80373">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/A2Barath">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter"/>
+  </a>
+  <a href="mailto:tbarath912356@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
 </div>
 
