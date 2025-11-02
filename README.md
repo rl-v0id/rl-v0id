@@ -1,112 +1,58 @@
-<div align="center">
-
-```
-██████╗ ██╗      ██╗   ██╗ ██████╗ ██╗██████╗ 
-██╔══██╗██║      ██║   ██║██╔═████╗██║██╔══██╗
-██████╔╝██║█████╗██║   ██║██║██╔██║██║██║  ██║
-██╔══██╗██║╚════╝╚██╗ ██╔╝████╔╝██║██║██║  ██║
-██║  ██║███████╗  ╚████╔╝ ╚██████╔╝██║██████╔╝
-╚═╝  ╚═╝╚══════╝   ╚═══╝   ╚═════╝ ╚═╝╚═════╝ 
-```
-
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" />
-
-</div>
+---
+# RL-V0ID | Entry-Level Offensive Security Professional
 
 ---
-
-# Hi there, I'm rl-v0id 👋
-
-## About Me
-🎯 **Beginner** in cybersecurity and penetration testing  
-📚 Currently learning **Linux**, **networking**, and **web security**  
-💻 Exploring **CTF challenges** and **security tools**  
-🔐 Building foundational skills in **offensive security**  
-🚀 Focused on hands-on practice and continuous improvement  
-
-## Current Focus
-- **Learning Linux fundamentals** (commands, file system, permissions)
-- **Networking basics** (TCP/IP, ports, protocols)
-- **Web security** (OWASP Top 10, common vulnerabilities)
-- **CTF challenges** on platforms like TryHackMe and HackTheBox
-- **Security tools** (Nmap, Burp Suite, Metasploit)
+<p align="center">
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
+</p>
 
 ---
-
-## 🛠️ Security Tools I'm Learning
-
-- **Nmap**: Network scanning and reconnaissance
-- **Burp Suite**: Web application security testing
-- **Metasploit**: Exploitation framework
-- **Wireshark**: Network protocol analyzer
-- **John the Ripper**: Password cracking
+## About
+Driven cybersecurity student specializing in offensive security, penetration testing, and CTFs. Self-learning with hands-on labs, dedicated to practical skills development and continuous improvement.
 
 ---
-
-## 📚 Learning Resources
-
-- [**TryHackMe**](https://tryhackme.com/p/rl-v0id): Interactive cybersecurity training
-- [**HackTheBox**](https://www.hackthebox.com/): Penetration testing labs
-- [**PortSwigger**](https://portswigger.net/web-security): Web security academy
-- [**PicoCTF**](https://picoctf.org/): Beginner-friendly CTF challenges
-- [**OverTheWire**](https://overthewire.org/wargames/): Command-line and security wargames
-
+## Core Competencies
+| Area                  | Focus / Tools                                                            |
+|-----------------------|-------------------------------------------------------------------------|
+| Penetration Testing   | Network, web app, and privilege escalation basics                        |
+| Programming & Scripting | Python (automation, exploit dev), Bash                                 |
+| Security Tools        | Nmap, Burp Suite, Metasploit, Wireshark, John the Ripper                |
+| CTF Platforms         | TryHackMe, HackTheBox, PortSwigger Academy, OverTheWire, PicoCTF        |
+| OS & Environments     | Kali Linux, Parrot OS, Windows, VMs (VMware/VirtualBox)                 |
 ---
-
-## 🎯 Learning Path
-
-1. **Linux Basics**: Master the command line and file system
-2. **Networking Fundamentals**: Understand how data moves across networks
-3. **Web Security**: Learn about common vulnerabilities (XSS, SQLi, CSRF)
-4. **Security Tools**: Get hands-on with Nmap, Burp Suite, and Metasploit
-5. **CTF Practice**: Apply skills in capture-the-flag challenges
-
-> *My long-term goal is to work towards earning the **OSCP (Offensive Security Certified Professional)** certification.*
-
+## Projects & Labs
+- **Web Application Pentesting** — Hands-on labs exploring SQLi, XSS, IDOR, Auth bypass.
+- **Active Directory Attacks** — Simulated labs for Kerberoasting, DCSync, bloodhound enumeration.
+- **CTF Writeups** — [Sample writeup: TryHackMe - Basic Pentesting](#)
+- **Home Lab Setup** — Multiple vulnerable VMs for practice (e.g., VulnHub, HackTheBox retired).
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![rl-v0id's GitHub stats](https://github-readme-stats.vercel.app/api?username=rl-v0id&show_icons=true&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rl-v0id&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rl-v0id&layout=compact&theme=radical)
-
-</div>
-
+## Learning Roadmap
+- [x] Linux CLI mastery
+- [x] Networking fundamentals
+- [x] Recon & info gathering (Nmap, Gobuster, Subfinder, Amass)
+- [x] Password attacks and hash cracking
+- [ ] Binary exploitation intro (buffer overflows basics)
+- [ ] Web application firewalls & bypass techniques
 ---
-
-## 🔗 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/rl-v0id)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/yourprofile)
-
-</div>
-
+## Achievements
+- TryHackMe streak: # days / Rooms: ## / [Profile](https://tryhackme.com/p/rlv0id)
+- HackTheBox: ## easy/medium boxes solved / [Profile](https://app.hackthebox.com/profile/rlv0id)
+- Personal CTF rank: ## percentile in [platform]
 ---
-
-## 💡 Support My Work
-
-If you find my work helpful or interesting:
-
-- ⭐ **Star my repositories** to show your support
-- 🐛 **Report issues** if you find bugs
-- 💬 **Share feedback** to help me improve
-- 🤝 **Collaborate** on projects
-
+## Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rl-v0id&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rl-v0id&theme=radical"/>
+</p>
 ---
-
-<div align="center">
-
-*"The only way to do great work is to love what you do." - Steve Jobs*
-
-![Profile Views](https://komarev.com/ghpvc/?username=rl-v0id&color=blueviolet)
-
-</div>
+## Contact
+- [LinkedIn](https://linkedin.com/in/rl-v0id)
+- [GitHub](https://github.com/rl-v0id)
+- [TryHackMe](https://tryhackme.com/p/rlv0id)
+- [HackTheBox](https://app.hackthebox.com/profile/rlv0id)
+---
+> _"Security is not a product, but a process."_
