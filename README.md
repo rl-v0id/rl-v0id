@@ -52,7 +52,7 @@ Driven cybersecurity student specializing in offensive security, penetration tes
 ## Tech Stack
 
 | Languages   | Tools          | Platforms    |
-|-------------|----------------||--------------|
+|-------------|----------------|--------------||
 | Python      | Nmap           | Linux        |
 | Bash        | Burp Suite     | Kali Linux   |
 | PowerShell  | Metasploit     | Windows      |
