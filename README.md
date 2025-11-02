@@ -1,5 +1,11 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/cybersecurity/cybersecurity.png" alt="Cybersecurity Banner" width="600"/>
+</p>
+
 ---
+
 # RL-V0ID | Entry-Level Offensive Security Professional
+
 ---
 
 <p align="center">
@@ -27,6 +33,10 @@
 
 Driven cybersecurity student specializing in offensive security, penetration testing, and CTFs. Self-learning with hands-on labs, dedicated to practical skills development and continuous improvement.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/master/images/snk-wave.svg" alt="Wave Divider"/>
+</p>
+
 ---
 
 ## Core Competencies
@@ -36,110 +46,38 @@ Driven cybersecurity student specializing in offensive security, penetration tes
 | Penetration Testing   | Network, web app, and privilege escalation basics                        |
 | Programming & Scripting | Python (automation, exploit dev), Bash                                 |
 | Security Tools        | Nmap, Burp Suite, Metasploit, Wireshark, John the Ripper                |
-| CTF Platforms         | TryHackMe, HackTheBox, PortSwigger Academy, OverTheWire, PicoCTF        |
-| OS & Environments     | Kali Linux, Parrot OS, Windows, VMs (VMware/VirtualBox)                 |
 
 ---
 
-## Skills Matrix
+## Tech Stack
 
-| Skill Category          | Skill                      | Level        | Notes                           |
-|-------------------------|----------------------------|--------------|---------------------------------|
-| **Reconnaissance**      | Nmap                       | Advanced     | Port scanning & service enum    |
-|                         | Gobuster/Dirb              | Intermediate | Directory brute-forcing         |
-|                         | OSINT                      | Intermediate | Information gathering           |
-| **Exploitation**        | Metasploit                 | Intermediate | Framework for exploitation      |
-|                         | Manual exploits            | Beginner     | Custom exploit development      |
-|                         | Web app attacks            | Intermediate | SQLi, XSS, IDOR, etc.           |
-| **Post-Exploitation**   | Privilege escalation       | Intermediate | Linux & Windows                 |
-|                         | Lateral movement           | Beginner     | Active Directory attacks        |
-| **Programming**         | Python                     | Intermediate | Scripting & automation          |
-|                         | Bash                       | Advanced     | System administration           |
-| **Tools & Frameworks**  | Burp Suite                 | Advanced     | Web app security testing        |
-|                         | Wireshark                  | Intermediate | Network traffic analysis        |
-|                         | John the Ripper            | Intermediate | Password cracking               |
+| Languages | Tools | Platforms |
+|-----------|-------|----------|
+| Python | Nmap | Linux |
+| Bash | Burp Suite | Kali Linux |
+| PowerShell | Metasploit | Windows |
+| SQL | Wireshark | VMware |
+| JavaScript | John the Ripper | VirtualBox |
+| | Hydra | TryHackMe |
+| | Nikto | Hack The Box |
+| | SQLmap | |
+| | Gobuster | |
 
 ---
 
-## Projects & Labs
+## Contact
 
-- **Web Application Pentesting** — Hands-on labs exploring SQLi, XSS, IDOR, Auth bypass.
-- **Active Directory Attacks** — Simulated labs for Kerberoasting, DCSync, bloodhound enumeration.
-- **Home Lab Setup** — Multiple vulnerable VMs for practice (e.g., VulnHub, HackTheBox retired).
-
-<details>
-<summary><b>🚩 CTF Writeups</b></summary>
-
-### Featured Writeups
-
-*Add your CTF writeups here as you complete challenges!*
-
-#### Template:
-```
-- **[Challenge Name]** - [Platform] - [Difficulty]
-  - Brief description
-  - Key techniques used
-  - [Link to full writeup](#)
-```
-
-#### Example:
-- **[Basic Pentesting]** - TryHackMe - Easy
-  - Initial enumeration and privilege escalation challenge
-  - Techniques: Nmap, SSH exploitation, SUID binaries
-  - [Full writeup](#)
-
-</details>
-
----
-
-## Learning Roadmap
-
-- [x] Linux CLI mastery
-- [x] Networking fundamentals
-- [x] Recon & info gathering (Nmap, Gobuster, Subfinder, Amass)
-- [x] Password attacks and hash cracking
-- [ ] Binary exploitation intro (buffer overflows basics)
-- [ ] Web application firewalls & bypass techniques
-
----
-
-## Achievements
-
-- TryHackMe streak: # days / Rooms: ## / [Profile](https://tryhackme.com/p/rlv0id)
-- HackTheBox: ## easy/medium boxes solved / [Profile](https://app.hackthebox.com/profile/rlv0id)
-- Personal CTF rank: ## percentile in [platform]
-
----
-
-## Stats
+📧 **Email:** [Contact via GitHub](https://github.com/rl-v0id)
+🔗 **LinkedIn:** [linkedin.com/in/rl-v0id](https://linkedin.com/in/rl-v0id)
+💻 **GitHub:** [github.com/rl-v0id](https://github.com/rl-v0id)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rl-v0id&show_icons=true&theme=dark" alt="GitHub Stats for rl-v0id"/>
+  <a href="#portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Button"/>
+  </a>
+  <a href="#resume">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume Button"/>
+  </a>
 </p>
 
 ---
-
-## 📄 Resume
-
-[Download Resume (PDF)](#) <!-- Update with your actual resume link -->
-
----
-
-## 💼 Portfolio
-
-[View Full Portfolio](#) <!-- Update with your actual portfolio link -->
-
----
-
-## Connect
-
-- 🔗 [LinkedIn](https://linkedin.com/in/rl-v0id)
-- 💻 [GitHub](https://github.com/rl-v0id)
-- 🎯 [TryHackMe](https://tryhackme.com/p/rlv0id)
-- 📦 [HackTheBox](https://app.hackthebox.com/profile/rlv0id)
-
----
-
-<p align="center">
-  <i>"The quieter you become, the more you can hear." - Ram Dass</i>
-</p>
