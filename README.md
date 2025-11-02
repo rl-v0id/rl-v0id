@@ -51,17 +51,21 @@ Driven cybersecurity student specializing in offensive security, penetration tes
 
 ## Tech Stack
 
-| Languages | Tools | Platforms |
-|-----------|-------|----------|
-| Python | Nmap | Linux |
-| Bash | Burp Suite | Kali Linux |
-| PowerShell | Metasploit | Windows |
-| SQL | Wireshark | VMware |
-| JavaScript | John the Ripper | VirtualBox |
-| | Hydra | TryHackMe |
-| | Nikto | Hack The Box |
-| | SQLmap | |
-| | Gobuster | |
+| Languages   | Tools          | Platforms    |
+|-------------|----------------||--------------|
+| Python      | Nmap           | Linux        |
+| Bash        | Burp Suite     | Kali Linux   |
+| PowerShell  | Metasploit     | Windows      |
+| SQL         | Wireshark      | VMware       |
+| JavaScript  | John the Ripper| VirtualBox   |
+
+### Other Tools & Platforms
+- Hydra
+- Nikto
+- SQLmap
+- Gobuster
+- TryHackMe
+- Hack The Box
 
 ---
 
@@ -73,10 +77,10 @@ Driven cybersecurity student specializing in offensive security, penetration tes
 
 <p align="center">
   <a href="#portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Button"/>
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Button"/>
   </a>
   <a href="#resume">
-    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume Button"/>
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=ReadMe&logoColor=white" alt="Resume Button"/>
   </a>
 </p>
 
