@@ -15,16 +15,22 @@
 
 ## ⚡ Quick Stats & Achievements
 
-<p align="center">
-   <a href="https://tryhackme.com/p/RLV0ID">
-     <img src="https://tryhackme-badges.s3.amazonaws.com/rl-v0id.png" alt="THM Badge" />
-   </a>
-   <img src="https://assets.tryhackme.com/room-badges/3e8a10b298ea1f05d12856cb3a6103a1.png" alt="180 Day Streak" width="150" />
-</p>
+<table align="center">
+   <tr>
+     <td align="center" width="50%">
+       <a href="https://tryhackme.com/p/RLV0ID">
+         <img src="https://tryhackme-badges.s3.amazonaws.com/rl-v0id.png" alt="THM Badge" height="150" />
+       </a>
+     </td>
+     <td align="center" width="50%">
+       <img src="https://assets.tryhackme.com/room-badges/3e8a10b298ea1f05d12856cb3a6103a1.png" alt="180 Day Streak" height="150" />
+     </td>
+   </tr>
+</table>
 
-### 📊 Skills Matrix
 <p align="center">
-   <img src="https://tryhackme-production-skills-matrix.s3.eu-west-1.amazonaws.com/RLV0ID-1778871763501.png" alt="Skills Matrix" width="700" style="border-radius: 10px;" />
+   <b>📊 TryHackMe Skills Matrix</b><br>
+   <img src="https://tryhackme-production-skills-matrix.s3.eu-west-1.amazonaws.com/RLV0ID-1778871763501.png" alt="Skills Matrix" width="100%" />
 </p>
 
 ---
@@ -41,53 +47,42 @@ Driven cybersecurity student specializing in offensive security, penetration tes
 
 ---
 
-## 🛡️ Core Competencies
-
-| Area | Focus / Tools |
-| :--- | :--- |
-| **Penetration Testing** | Network, web app, and privilege escalation basics |
-| **Programming** | Python (automation, exploit dev), Bash |
-| **Security Tools** | Nmap, Burp Suite, Metasploit, Wireshark, John the Ripper |
-
----
-
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Skills
 
 <p align="center">
    <img src="https://skillicons.dev/icons?i=py,bash,powershell,linux,kali,vmware,mysql,js,git,docker,github&theme=dark" />
 </p>
 
-### 🚀 Tools of the Trade
-`Hydra` • `Nikto` • `SQLmap` • `Gobuster` • `Metasploit` • `Burp Suite` • `Wireshark`
+<p align="center">
+   <code>Hydra</code> • <code>Nikto</code> • <code>SQLmap</code> • <code>Gobuster</code> • <code>Metasploit</code> • <code>Burp Suite</code> • <code>Wireshark</code>
+</p>
 
 ---
+
+## 📈 GitHub Activity
 
 <p align="center">
-   <a href="https://github.com/rl-v0id?tab=repositories">
-     <img src="https://github-readme-stats.vercel.app/api?username=rl-v0id&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-   </a>
-   <a href="https://github.com/rl-v0id?tab=repositories">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rl-v0id&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" />
-   </a>
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rl-v0id&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true" width="100%" />
 </p>
 
 ---
 
-<h2 id="resume">📄 Resume</h2>
-<p><i>Looking for opportunities in Offensive Security / Pentesting.</i></p>
-<p align="left">
-   <a href="#resume">
-     <img src="https://img.shields.io/badge/View_Resume-4285F4?style=for-the-badge&logo=ReadMe&logoColor=white" />
-   </a>
-</p>
-
-<h2 id="portfolio">💼 Portfolio</h2>
-<p><i>Check out my writeups and projects.</i></p>
-<p align="left">
-   <a href="#portfolio">
-     <img src="https://img.shields.io/badge/View_Portfolio-FF5722?style=for-the-badge&logo=About.me&logoColor=white" />
-   </a>
-</p>
+<table align="center">
+   <tr>
+     <td align="center">
+       <h2 id="resume">📄 Resume</h2>
+       <a href="https://rl-v0id.github.io/">
+         <img src="https://img.shields.io/badge/View_Resume-4285F4?style=for-the-badge&logo=ReadMe&logoColor=white" />
+       </a>
+     </td>
+     <td align="center">
+       <h2 id="portfolio">💼 Portfolio</h2>
+       <a href="https://rl-v0id.github.io/">
+         <img src="https://img.shields.io/badge/View_Portfolio-FF5722?style=for-the-badge&logo=About.me&logoColor=white" />
+       </a>
+     </td>
+   </tr>
+</table>
 
 ---
 
